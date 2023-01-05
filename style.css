@@ -58,7 +58,7 @@
   margin: 8px;
 }
 .images .image-box img {
-  height: 75%;
+  height: 100%;
   width: 100%;
   border-radius: 6px;
   transition: transform 0.2s linear;
@@ -71,7 +71,7 @@
   bottom: 10px;
   left: 10px;
   color: #fff;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 400;
   text-transform: capitalize;
 }
